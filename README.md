@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hey there, I'm Adil! 
+#  Hey there, I'm Adil! 
 
 
 
